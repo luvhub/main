@@ -1,6 +1,6 @@
 --[[
 	Obfuscated with wfuscator <https://whut.dev/wfuscator/>
-	Obfuscation level: STANDARD
+	Made w love, LuvHub!
 	Still a work in progress! Do not deobfuscate!
 
 	Credits: @NWhut <https://whut.dev/>; FiOne by Rerumu;
